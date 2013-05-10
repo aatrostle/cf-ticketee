@@ -25,7 +25,7 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: ticketee_prodction
+  database: ticketee_production
   pool: 5
   username: aarontrostle
   password:
