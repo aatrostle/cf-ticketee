@@ -5,7 +5,7 @@ feature 'Creating Projects' do
     visit '/'
     click_link 'New Project'
   end
-  
+
   scenario "can create project" do
     fill_in 'Name', :with => 'TextMate 2'
     fill_in 'Description', :with => "A text-editor for OX X"
