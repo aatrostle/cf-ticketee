@@ -16,3 +16,6 @@
 
 # Ignore SimpleCov coverage reports
 /coverage
+
+# Ignore test files
+/public/system
