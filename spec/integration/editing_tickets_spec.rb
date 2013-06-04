@@ -35,3 +35,4 @@ feature "Editing tickets" do
     page.should have_content("Ticket has not been updated.")
   end
 end
+
